@@ -1,0 +1,12 @@
+target
+!target/lib
+!target/*.jar
+
+docker-compose.yaml
+.idea
+.mypy_cache
+.output
+venv
+deploy
+*.py
+*.sh
